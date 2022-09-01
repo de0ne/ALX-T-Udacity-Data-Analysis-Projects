@@ -83,3 +83,34 @@ The following tidiness issues were fixed in the twitter_archive_master table:
 2. the 'text' column was dropped as it contains the same information with the tweet column.
 
 3. the columns were rearranged.
+
+### 4. Analysis & Visualization
+
+The insights from this project are:
+1. The most common dog stages are pupper, doggo and puppo
+3. The top three dogs with most average retweets are Stephan, Duddles and Jamesy
+4. The top three dogs with most average likes are Stephan, Jamesy and Duddles
+5. There is a linear relationship between no of retweets and no of likes.
+
+##### Insight 1: The most common dog stages are pupper, doggo and puppo
+
+![image1](https://user-images.githubusercontent.com/78403762/187943697-f513d8a0-cf9b-4fa2-b54d-386984a72ca1.png)
+* As we can see from the above image, the most dog breeds are pupper, doggo and puppo. Others are doggo, pupper; doggo, floofer and doggo, puppo.
+
+* The occurrence of pupper dog breed is very high compared to other dog breeds.
+
+#### Insight 2: The top three dogs with most average retweets are Stephan, Duddles and Jamesy
+#### Insight 3: The top three dogs with most average likes are Stephan, Jamesy and Duddles
+
+![image3](https://user-images.githubusercontent.com/78403762/187943903-baca8681-3417-4dff-98dc-e631b4bc10ca.png)
+* The chart above shows the dogs with the most average retweets and average likes '
+* Stephen, Duddles and Jamesy are the top three in the average retweets chart.
+* Stephen, Jamesy and Duddles are also the top three in the average likes chart.
+
+#### Insight 4: There is a linear relationship between no of retweets and no of likes.
+
+![image4](https://user-images.githubusercontent.com/78403762/187944137-92e0ebb3-477f-4ff9-8bde-e882403b164c.png)
+
+* The chart above shows there is a linear relationship between the no of retweets in a post and the no of likes on the same post. This means that the more the retweets, the more the likes.
+
+* This supports our findings in the average retweets and likes charts as the dog with the most retweets are also the ones with the most likes.
